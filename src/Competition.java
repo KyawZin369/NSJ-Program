@@ -13,6 +13,10 @@ public class Competition {
         return competitions;
     }
 
+    
+    /** 
+     * @return double
+     */
     public double calculateCost() {
         return competitions * 22;
     }

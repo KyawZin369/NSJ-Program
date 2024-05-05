@@ -18,6 +18,10 @@ class TrainingPlan implements cost {
         return cost;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getName() {
         return name;
     }

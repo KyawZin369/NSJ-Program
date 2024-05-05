@@ -23,6 +23,10 @@ public class Athlete {
         return name;
     }
 
+    
+    /** 
+     * @return Weight
+     */
     public Weight getWeight() {
         return weight;
     }

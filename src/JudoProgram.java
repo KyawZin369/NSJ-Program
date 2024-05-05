@@ -44,6 +44,10 @@ public class JudoProgram {
         pressEnter();
     }
 
+    
+    /** 
+     * @param athletes
+     */
     // Athlete Register and Store in arrayList
 
     private static void registerAthletes(ArrayList<Athlete> athletes) {

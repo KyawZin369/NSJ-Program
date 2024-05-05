@@ -16,6 +16,10 @@ class PrivateCoaching implements cost {
         return hours * COST_PER_HOUR;
     }
 
+    
+    /** 
+     * @return Object
+     */
     public Object getHours() {
         return hours;
     }
